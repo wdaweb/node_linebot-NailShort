@@ -24,3 +24,5 @@
 
 ## 作業連結
 - [儲存庫](https://github.com/NailShort/linebotnew)
+
+機器⼈的好友 ID：@034sdmgb
